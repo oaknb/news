@@ -1,0 +1,8 @@
+{
+    "name": "news-u",
+    "short_name": "news-u",
+    
+    "theme_color": "#0e0e0e",
+    "background_color": "#0e0e0e",
+    "display": "standalone"
+}

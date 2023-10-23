@@ -1,0 +1,13 @@
+{
+    "editor.cursorStyle": "line",
+    "editor.multiCursorModifier": "alt",
+    "editor.insertSpaces": true,
+    "editor.wordWrap": "off",
+    "workbench.editor.enablePreview": true,
+    "editor.foldingStrategy": "auto",
+    "editor.suggest.showFolders": true,
+    "explorer.expandSingleFolderWorkspaces": true,
+    "npm.enableRunFromFolder": false,
+    "explorer.compactFolders": false,
+    "interactiveWindow.alwaysScrollOnNewCell": true
+}
